@@ -35,6 +35,41 @@ Agent Protocol:
 3. Consult REPOSITORY\_CODE\_MAP.md for semantic understanding of file contents before reading the files directly.
 4. Default to reading individual file contents only after consulting the map files.
 
+## **Top Level File Tree**
+
+```bash
+tre  -l 2 .
+
+.
+├── .gitignore
+├── FILE_TREE_MAP.json
+├── FILE_TREE_MAP.yaml
+├── MONOREPO_MANIFEST.json
+├── README.md
+├── REPOSITORY_CODE_MAP.md
+├── anthropic_projects
+│   ├── anthropic-cookbook
+│   ├── anthropic-quickstarts
+│   ├── anthropic-sdk-python
+│   ├── claude-code-action
+│   └── redis-py
+├── docs
+│   └── README.md
+├── modelcontextprotocol_projects
+│   ├── example-remote-client
+│   ├── inspector
+│   ├── python-sdk
+│   ├── servers
+│   └── typescript-sdk
+└── openai_projects
+    ├── RD-Agent-microsoft
+    ├── codex
+    ├── mle-bench
+    ├── openai-agents-python
+    ├── openai-cookbook
+    └── sample-deep-research-mcp
+```
+
 ## **AI Agents Monorepo**
 
 Welcome to *mu*, the AI Agents Monorepo. This repository consolidates multiple projects related to the development and tooling of AI agents from various organizations.
