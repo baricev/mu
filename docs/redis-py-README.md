@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the redis-py component.'
 ---
----
-long_summary: |
-  redis-py is the official Python client for the Redis key-value store. The README introduces the project, links to documentation, and notes Python version support. It provides instructions for installation from PyPI, describes common usage patterns, and points to advanced topics. The project is open source under the MIT license and welcomes contributions through its GitHub repository.
----
 
 
 # redis-py
@@ -186,3 +182,9 @@ Special thanks to:
 -   Paul Hubbard for initial packaging support.
 
 [![Redis](./docs/_static/logo-redis.svg)](https://redis.io)
+
+---
+summary: |
+  redis-py is the official Python client for the Redis key-value store. The README introduces the project, links to documentation, and notes Python version support. It provides instructions for installation from PyPI, describes common usage patterns, and points to advanced topics. The project is open source under the MIT license and welcomes contributions through its GitHub repository.
+
+---

@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the RD-Agent-microsoft component.'
 ---
----
-long_summary: |
-  RD-Agent is an open-source research agent from Microsoft that demonstrates automated reasoning and coding abilities for machine learning tasks. The README features a large set of badges, links to a live demo and technical report, and instructions for installation and configuration. It details system requirements, recommended environment setup, and references to accompanying documentation and tutorials. The project invites contributions via GitHub and includes disclaimers about research status.
----
 
 
 <h4 align="center">
@@ -468,3 +464,9 @@ Before we released R&D-Agent as an open-source project on GitHub, it was an inte
 
 # ⚖️ Legal disclaimer
 <p style="line-height: 1; font-style: italic;">The RD-agent is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. The RD-agent is aimed to facilitate research and development process in the financial industry and not ready-to-use for any financial investment or advice. Users shall independently assess and test the risks of the RD-agent in a specific use scenario, ensure the responsible use of AI technology, including but not limited to developing and integrating risk mitigation measures, and comply with all applicable laws and regulations in all applicable jurisdictions. The RD-agent does not provide financial opinions or reflect the opinions of Microsoft, nor is it designed to replace the role of qualified financial professionals in formulating, assessing, and approving finance products. The inputs and outputs of the RD-agent belong to the users and users shall assume all liability under any theory of liability, whether in contract, torts, regulatory, negligence, products liability, or otherwise, associated with use of the RD-agent and any inputs and outputs thereof.</p>
+
+---
+summary: |
+  RD-Agent is an open-source research agent from Microsoft that demonstrates automated reasoning and coding abilities for machine learning tasks. The README features a large set of badges, links to a live demo and technical report, and instructions for installation and configuration. It details system requirements, recommended environment setup, and references to accompanying documentation and tutorials. The project invites contributions via GitHub and includes disclaimers about research status.
+
+---

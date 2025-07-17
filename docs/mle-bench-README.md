@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the mle-bench component.'
 ---
----
-long_summary: |
-  MLE-Bench accompanies the paper "MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering" and provides the dataset construction code, evaluation scripts, and baseline agent implementations. The README includes a leaderboard table summarizing agent performance, guidelines for benchmarking with recommended runtime and compute resources, and instructions for running lite or full evaluations. It emphasizes repeating evaluations with multiple seeds to report consistent scores.
----
 
 
 # MLE-bench
@@ -210,3 +206,8 @@ Please cite using the following BibTeX entry:
   url={https://arxiv.org/abs/2410.07095}
 }
 ```
+---
+summary: |
+  MLE-Bench accompanies the paper "MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering" and provides the dataset construction code, evaluation scripts, and baseline agent implementations. The README includes a leaderboard table summarizing agent performance, guidelines for benchmarking with recommended runtime and compute resources, and instructions for running lite or full evaluations. It emphasizes repeating evaluations with multiple seeds to report consistent scores.
+
+---

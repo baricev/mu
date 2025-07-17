@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the typescript-sdk component.'
 ---
----
-long_summary: |
-  The MCP TypeScript SDK provides tools for building servers and clients that follow the Model Context Protocol. The README outlines installation via npm, a quickstart, and in-depth explanations of core MCP concepts like resources, tools, prompts, and completions. Examples demonstrate different server configurations, from stdin/stdout servers to streamable HTTP endpoints. Advanced sections cover dynamic servers and proxying authorization requests. The document serves as a comprehensive guide for TypeScript developers adopting MCP.
----
 
 
 # MCP TypeScript SDK ![NPM Version](https://img.shields.io/npm/v/%40modelcontextprotocol%2Fsdk) ![MIT licensed](https://img.shields.io/npm/l/%40modelcontextprotocol%2Fsdk)
@@ -1338,3 +1334,9 @@ Issues and pull requests are welcome on GitHub at <https://github.com/modelconte
 ## License
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+
+---
+summary: |
+  The MCP TypeScript SDK provides tools for building servers and clients that follow the Model Context Protocol. The README outlines installation via npm, a quickstart, and in-depth explanations of core MCP concepts like resources, tools, prompts, and completions. Examples demonstrate different server configurations, from stdin/stdout servers to streamable HTTP endpoints. Advanced sections cover dynamic servers and proxying authorization requests. The document serves as a comprehensive guide for TypeScript developers adopting MCP.
+
+---
