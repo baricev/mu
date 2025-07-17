@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  The MCP TypeScript SDK provides tools to build MCP clients and servers in Node.js. It requires Node 18+ and can be installed via `npm install @modelcontextprotocol/sdk`. The README explains core concepts (servers, resources, tools, prompts) and includes a quickstart demonstrating how to register a calculator tool and dynamic resource. Advanced sections cover dynamic servers, low-level APIs, writing MCP clients, proxying auth requests, and compatibility.
 id: 'typescript-sdk-001'
 title: 'typescript-sdk'
 type: 'component-documentation'
@@ -1336,3 +1334,8 @@ Issues and pull requests are welcome on GitHub at <https://github.com/modelconte
 ## License
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+
+---
+summary: |
+    The MCP TypeScript SDK provides tools to build MCP clients and servers in Node.js. It requires Node 18+ and can be installed via `npm install @modelcontextprotocol/sdk`. The README explains core concepts (servers, resources, tools, prompts) and includes a quickstart demonstrating how to register a calculator tool and dynamic resource. Advanced sections cover dynamic servers, low-level APIs, writing MCP clients, proxying auth requests, and compatibility.
+---

@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  redis-py is the official Python client for Redis. The README highlights installation steps, compatibility with Redis versions, and an optional hiredis parser for performance. It references tutorials, Redis University, and community links. Users can start Redis via Docker and install the package with `pip install redis` or `pip install "redis[hiredis]"` for faster parsing.
 id: 'redis-py-001'
 title: 'redis-py'
 type: 'component-documentation'
@@ -184,3 +182,8 @@ Special thanks to:
 -   Paul Hubbard for initial packaging support.
 
 [![Redis](./docs/_static/logo-redis.svg)](https://redis.io)
+
+---
+summary: |
+    redis-py is the official Python client for Redis. The README highlights installation steps, compatibility with Redis versions, and an optional hiredis parser for performance. It references tutorials, Redis University, and community links. Users can start Redis via Docker and install the package with `pip install redis` or `pip install "redis[hiredis]"` for faster parsing.
+---

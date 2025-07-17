@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  Claude Code Action is a GitHub Action that listens for a trigger phrase in PR or issue comments and uses Claude to answer questions or implement code changes. It supports multiple authentication methods (Anthropic API, AWS Bedrock, Google Vertex). Features include code reviews, implementation assistance, progress tracking, and customizable tool access. Setup can be done via the Claude CLI or by manually configuring a GitHub App and repository secrets.
 id: 'claude-code-action-001'
 title: 'claude-code-action'
 type: 'component-documentation'
@@ -905,3 +903,8 @@ We also recommend that you always use short-lived tokens when possible
 ## License
 
 This project is licensed under the MIT License—see the LICENSE file for details.
+
+---
+summary: |
+    Claude Code Action is a GitHub Action that listens for a trigger phrase in PR or issue comments and uses Claude to answer questions or implement code changes. It supports multiple authentication methods (Anthropic API, AWS Bedrock, Google Vertex). Features include code reviews, implementation assistance, progress tracking, and customizable tool access. Setup can be done via the Claude CLI or by manually configuring a GitHub App and repository secrets.
+---

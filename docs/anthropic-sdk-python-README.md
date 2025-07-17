@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  The Anthropic Python SDK gives programmatic access to the Anthropic API for Python 3.8+. It includes typed request and response objects and provides synchronous and asynchronous clients via httpx, with optional aiohttp for better concurrency. Installation is via `pip install anthropic`. The README contains sample code for creating messages, using AsyncAnthropic, and managing API keys securely.
 id: 'anthropic-sdk-python-001'
 title: 'anthropic-sdk-python'
 type: 'component-documentation'
@@ -837,3 +835,8 @@ Python 3.8 or higher.
 ## Contributing
 
 See [the contributing documentation](./CONTRIBUTING.md).
+
+---
+summary: |
+    The Anthropic Python SDK gives programmatic access to the Anthropic API for Python 3.8+. It includes typed request and response objects and provides synchronous and asynchronous clients via httpx, with optional aiohttp for better concurrency. Installation is via `pip install anthropic`. The README contains sample code for creating messages, using AsyncAnthropic, and managing API keys securely.
+---

@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  The Example Remote MCP Client is a React TypeScript app that connects to multiple MCP servers. It includes a conversational interface with agent loops, real-time tool call visualization, and debugging tools. Development requires Node.js and installing dependencies. Scripts allow running, building, previewing, linting, and testing the application. The architecture uses providers for inference and MCP connections with reusable UI components.
 id: 'example-remote-client-001'
 title: 'example-remote-client'
 type: 'component-documentation'
@@ -79,3 +77,7 @@ The application is built with a modular architecture using React hooks and provi
 This is an active development project serving as both:
 - A public example implementation of MCP client features
 - A prototyping testbed for MCP protocol changes
+---
+summary: |
+    The Example Remote MCP Client is a React TypeScript app that connects to multiple MCP servers. It includes a conversational interface with agent loops, real-time tool call visualization, and debugging tools. Development requires Node.js and installing dependencies. Scripts allow running, building, previewing, linting, and testing the application. The architecture uses providers for inference and MCP connections with reusable UI components.
+---

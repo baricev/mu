@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  This project is a minimal Model Context Protocol server for a sample cupcake ordering domain. Setup instructions create a Python virtual environment, install requirements, and run `sample_mcp.py` to start a server on localhost using SSE. The README notes that `records.json` contains order data needed by the server.
 id: 'sample-deep-research-mcp-001'
 title: 'sample-deep-research-mcp'
 type: 'component-documentation'
@@ -38,3 +36,8 @@ The server will start on `http://127.0.0.1:8000` using SSE transport.
 
 - `sample_mcp.py`: Main server code
 - `records.json`: Cupcake order data (must be present in the same directory)
+
+---
+summary: |
+    This project is a minimal Model Context Protocol server for a sample cupcake ordering domain. Setup instructions create a Python virtual environment, install requirements, and run `sample_mcp.py` to start a server on localhost using SSE. The README notes that `records.json` contains order data needed by the server.
+---

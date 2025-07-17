@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  The MCP Python SDK implements the Model Context Protocol in Python. It helps build MCP clients and servers, supports stdio, SSE, and Streamable HTTP transports, and handles protocol messages. Installation is recommended via the `uv` package manager or pip. The README provides a quickstart example that creates an MCP server with tools, resources, and prompts using the FastMCP framework.
 id: 'python-sdk-001'
 title: 'python-sdk'
 type: 'component-documentation'
@@ -1800,3 +1798,8 @@ We are passionate about supporting contributors of all levels of experience and 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+summary: |
+    The MCP Python SDK implements the Model Context Protocol in Python. It helps build MCP clients and servers, supports stdio, SSE, and Streamable HTTP transports, and handles protocol messages. Installation is recommended via the `uv` package manager or pip. The README provides a quickstart example that creates an MCP server with tools, resources, and prompts using the FastMCP framework.
+---

@@ -1,0 +1,1 @@
+OpenAI Codex CLI is an experimental coding agent that runs locally. The README covers quickstart instructions, security model, sandboxing details, CLI reference, non-interactive mode, and configuration. It discusses integration with the Model Context Protocol, tracing, and contributions. Development workflow guidelines and licensing information are also included.

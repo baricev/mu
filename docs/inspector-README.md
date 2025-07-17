@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  MCP Inspector is a developer tool consisting of a React web UI and a Node.js proxy. It allows testing MCP servers via different transports (stdio, SSE, streamable HTTP). Quick start uses `npx @modelcontextprotocol/inspector` to launch a local UI and proxy, which connect to your server. The README explains how to pass arguments and environment variables, customize ports, and export server configurations. Links to documentation and debugging guides are provided.
 id: 'inspector-001'
 title: 'inspector'
 type: 'component-documentation'
@@ -353,3 +351,8 @@ npx @modelcontextprotocol/inspector --cli https://my-mcp-server.example.com --me
 ## License
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+
+---
+summary: |
+    MCP Inspector is a developer tool consisting of a React web UI and a Node.js proxy. It allows testing MCP servers via different transports (stdio, SSE, streamable HTTP). Quick start uses `npx @modelcontextprotocol/inspector` to launch a local UI and proxy, which connect to your server. The README explains how to pass arguments and environment variables, customize ports, and export server configurations. Links to documentation and debugging guides are provided.
+---

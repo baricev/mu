@@ -1,0 +1,1 @@
+The OpenAI Cookbook provides example code and guides for using the OpenAI API. Users should set an `OPENAI_API_KEY` environment variable or `.env` file. Most examples are in Python, but the concepts are applicable broadly. Additional resources and courses are linked for further learning. The project is available at cookbook.openai.com and licensed under MIT.
