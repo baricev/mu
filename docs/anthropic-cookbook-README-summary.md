@@ -1,0 +1,1 @@
+The Anthropic Cookbook repository contains code snippets and guides for working with Claude. It requires an Anthropic API key and focuses on Python examples, though concepts apply across languages. The README links to developer docs, support resources, and the Anthropic Discord. Contributions are welcomed through issues and pull requests.

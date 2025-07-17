@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  RD-Agent is a Microsoft project showcasing a machine learning engineering agent. The README links to a live demo, documentation, and tech report. Benchmark results from MLE-bench highlight RD-Agent's performance compared to other agents. Additional sections describe its quantitative finance framework and provide news updates. Users can refer to the documentation for instructions on running the agent and benchmarks.
 id: 'RD-Agent-microsoft-001'
 title: 'RD-Agent-microsoft'
 type: 'component-documentation'
@@ -466,3 +464,8 @@ Before we released R&D-Agent as an open-source project on GitHub, it was an inte
 
 # ⚖️ Legal disclaimer
 <p style="line-height: 1; font-style: italic;">The RD-agent is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. The RD-agent is aimed to facilitate research and development process in the financial industry and not ready-to-use for any financial investment or advice. Users shall independently assess and test the risks of the RD-agent in a specific use scenario, ensure the responsible use of AI technology, including but not limited to developing and integrating risk mitigation measures, and comply with all applicable laws and regulations in all applicable jurisdictions. The RD-agent does not provide financial opinions or reflect the opinions of Microsoft, nor is it designed to replace the role of qualified financial professionals in formulating, assessing, and approving finance products. The inputs and outputs of the RD-agent belong to the users and users shall assume all liability under any theory of liability, whether in contract, torts, regulatory, negligence, products liability, or otherwise, associated with use of the RD-agent and any inputs and outputs thereof.</p>
+
+---
+summary: |
+    RD-Agent is a Microsoft project showcasing a machine learning engineering agent. The README links to a live demo, documentation, and tech report. Benchmark results from MLE-bench highlight RD-Agent's performance compared to other agents. Additional sections describe its quantitative finance framework and provide news updates. Users can refer to the documentation for instructions on running the agent and benchmarks.
+---

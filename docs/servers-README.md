@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  The MCP servers repository aggregates reference implementations demonstrating how to expose tools and resources via the Model Context Protocol. It lists example servers like Everything, Fetch, Filesystem, Git, Memory, and Time. The README also references archived servers and a long list of third-party servers maintained by various organizations. Entries are kept in alphabetical order to reduce merge conflicts.
 id: 'servers-001'
 title: 'servers'
 type: 'component-documentation'
@@ -1194,3 +1192,8 @@ If you find MCP servers useful, please consider starring the repository and cont
 ---
 
 Managed by Anthropic, but built together with the community. The Model Context Protocol is open source and we encourage everyone to contribute their own servers and improvements!
+
+---
+summary: |
+    The MCP servers repository aggregates reference implementations demonstrating how to expose tools and resources via the Model Context Protocol. It lists example servers like Everything, Fetch, Filesystem, Git, Memory, and Time. The README also references archived servers and a long list of third-party servers maintained by various organizations. Entries are kept in alphabetical order to reduce merge conflicts.
+---

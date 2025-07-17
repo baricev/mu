@@ -1,0 +1,1 @@
+The OpenAI Agents SDK provides a framework for building multi-agent workflows in Python. Core concepts include agents, handoffs, guardrails, sessions, and tracing. The README shows how to create an agent, run it with a session, and retrieve final output. Documentation and examples demonstrate further usage.

@@ -1,0 +1,1 @@
+This project is a minimal Model Context Protocol server for a sample cupcake ordering domain. Setup instructions create a Python virtual environment, install requirements, and run `sample_mcp.py` to start a server on localhost using SSE. The README notes that `records.json` contains order data needed by the server.

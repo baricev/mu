@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  MLE-bench is a benchmark for evaluating AI agents on machine learning engineering tasks using Kaggle competitions. The README describes the leaderboard with agent scores, guidelines for benchmarking (including recommended resources and runtime settings), and how to perform a lighter evaluation using the Low complexity split. It includes instructions for using Git LFS to fetch the dataset.
 id: 'mle-bench-001'
 title: 'mle-bench'
 type: 'component-documentation'
@@ -208,3 +206,7 @@ Please cite using the following BibTeX entry:
   url={https://arxiv.org/abs/2410.07095}
 }
 ```
+---
+summary: |
+    MLE-bench is a benchmark for evaluating AI agents on machine learning engineering tasks using Kaggle competitions. The README describes the leaderboard with agent scores, guidelines for benchmarking (including recommended resources and runtime settings), and how to perform a lighter evaluation using the Low complexity split. It includes instructions for using Git LFS to fetch the dataset.
+---

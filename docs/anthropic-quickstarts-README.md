@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  Anthropic Quickstarts provides starter projects for building Claude-based applications. The README lists quickstarts for a customer support agent, financial data analyst, and computer use demo. Setup involves cloning, installing dependencies, configuring an API key, and running the examples. Further resources include Anthropic docs, the Cookbook, and fundamentals course. Contributions and community support are encouraged.
 id: 'anthropic-quickstarts-001'
 title: 'anthropic-quickstarts'
 type: 'component-documentation'
@@ -70,3 +68,8 @@ We welcome contributions to the Anthropic Quickstarts repository! If you have id
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+summary: |
+    Anthropic Quickstarts provides starter projects for building Claude-based applications. The README lists quickstarts for a customer support agent, financial data analyst, and computer use demo. Setup involves cloning, installing dependencies, configuring an API key, and running the examples. Further resources include Anthropic docs, the Cookbook, and fundamentals course. Contributions and community support are encouraged.
+---

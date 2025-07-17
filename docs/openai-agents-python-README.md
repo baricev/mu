@@ -1,6 +1,4 @@
 ---
-long_summary: |
-  The OpenAI Agents SDK provides a framework for building multi-agent workflows in Python. Core concepts include agents, handoffs, guardrails, sessions, and tracing. The README shows how to create an agent, run it with a session, and retrieve final output. Documentation and examples demonstrate further usage.
 id: 'openai-agents-python-001'
 title: 'openai-agents-python'
 type: 'component-documentation'
@@ -315,3 +313,8 @@ We'd like to acknowledge the excellent work of the open-source community, especi
 -   [uv](https://github.com/astral-sh/uv) and [ruff](https://github.com/astral-sh/ruff)
 
 We're committed to continuing to build the Agents SDK as an open source framework so others in the community can expand on our approach.
+
+---
+summary: |
+    The OpenAI Agents SDK provides a framework for building multi-agent workflows in Python. Core concepts include agents, handoffs, guardrails, sessions, and tracing. The README shows how to create an agent, run it with a session, and retrieve final output. Documentation and examples demonstrate further usage.
+---
