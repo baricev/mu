@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the codex component.'
 ---
----
-long_summary: |
-  The Codex CLI is a terminal-based coding agent from OpenAI. The README begins with an experimental technology disclaimer and provides a detailed table of contents covering topics from quickstart instructions to security and responsible AI. It describes the CLI's sandboxing model, memory management, non-interactive mode, and integration with the Model Context Protocol. Sections on contributing outline development workflow, opening pull requests, and releasing new versions. Overall, the document guides developers through installing, configuring, and extending Codex.
----
 
 
 <h1 align="center">OpenAI Codex CLI</h1>
@@ -577,3 +573,9 @@ Have you discovered a vulnerability or have concerns about model output? Please 
 ## License
 
 This repository is licensed under the [Apache-2.0 License](LICENSE).
+
+---
+summary: |
+  The Codex CLI is a terminal-based coding agent from OpenAI. The README begins with an experimental technology disclaimer and provides a detailed table of contents covering topics from quickstart instructions to security and responsible AI. It describes the CLI's sandboxing model, memory management, non-interactive mode, and integration with the Model Context Protocol. Sections on contributing outline development workflow, opening pull requests, and releasing new versions. Overall, the document guides developers through installing, configuring, and extending Codex.
+
+---

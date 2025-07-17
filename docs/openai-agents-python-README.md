@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the openai-agents-python component.'
 ---
----
-long_summary: |
-  The OpenAI Agents SDK for Python provides a framework for building agent workflows that integrate with the OpenAI API and other LLMs. The README introduces key concepts such as agents, handoffs, guardrails, sessions, and tracing. It walks through setup steps, showing how to install the SDK, create a simple agent, and manage conversation state with session objects. Further sections explain the agent loop, provide examples using functions and handoffs, and detail development instructions for contributors including linting, testing, and documentation generation.
----
 
 
 # OpenAI Agents SDK
@@ -317,3 +313,9 @@ We'd like to acknowledge the excellent work of the open-source community, especi
 -   [uv](https://github.com/astral-sh/uv) and [ruff](https://github.com/astral-sh/ruff)
 
 We're committed to continuing to build the Agents SDK as an open source framework so others in the community can expand on our approach.
+
+---
+summary: |
+  The OpenAI Agents SDK for Python provides a framework for building agent workflows that integrate with the OpenAI API and other LLMs. The README introduces key concepts such as agents, handoffs, guardrails, sessions, and tracing. It walks through setup steps, showing how to install the SDK, create a simple agent, and manage conversation state with session objects. Further sections explain the agent loop, provide examples using functions and handoffs, and detail development instructions for contributors including linting, testing, and documentation generation.
+
+---

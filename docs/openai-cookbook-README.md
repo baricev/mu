@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the openai-cookbook component.'
 ---
----
-long_summary: |
-  The OpenAI Cookbook contains example code and guides for common tasks with the OpenAI API. The README points users to the hosted site at cookbook.openai.com and recommends storing an API key in an environment variable or .env file. While most examples are in Python, the ideas apply to any language. The project uses the MIT license and links to additional resources for learning about OpenAI's tools.
----
 
 
 <a href="https://cookbook.openai.com" target="_blank">
@@ -34,3 +30,9 @@ For other useful tools, guides and courses, check out these [related resources f
 ## License
 
 MIT License
+
+---
+summary: |
+  The OpenAI Cookbook contains example code and guides for common tasks with the OpenAI API. The README points users to the hosted site at cookbook.openai.com and recommends storing an API key in an environment variable or .env file. While most examples are in Python, the ideas apply to any language. The project uses the MIT license and links to additional resources for learning about OpenAI's tools.
+
+---

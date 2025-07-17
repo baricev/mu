@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the python-sdk component.'
 ---
----
-long_summary: |
-  The MCP Python SDK is a reference implementation of the Model Context Protocol in Python. The README covers installation, quickstart examples, and an overview of MCP core concepts such as servers, resources, tools, and prompts. It details command-line utilities for running local servers, generating schemas, and integrating with other components. The document provides extensive guidance for writing MCP clients and contributes to a comprehensive suite of development tools.
----
 
 
 # MCP Python SDK
@@ -1802,3 +1798,9 @@ We are passionate about supporting contributors of all levels of experience and 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+summary: |
+  The MCP Python SDK is a reference implementation of the Model Context Protocol in Python. The README covers installation, quickstart examples, and an overview of MCP core concepts such as servers, resources, tools, and prompts. It details command-line utilities for running local servers, generating schemas, and integrating with other components. The document provides extensive guidance for writing MCP clients and contributes to a comprehensive suite of development tools.
+
+---

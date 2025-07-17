@@ -8,14 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the anthropic-cookbook component.'
 ---
----
-long_summary: |
-  The Anthropic Cookbook repository offers sample code snippets and guides for building with Claude, Anthropic's LLM. It assumes users have an Anthropic API key and primarily targets Python but the ideas apply broadly. The README highlights prerequisites, points newcomers to other educational materials, and encourages contributions via issues and pull requests. Links to Anthropic docs, support resources, and community channels provide additional learning paths.
----
----
-long_summary: |
-  The Anthropic Cookbook repository offers sample code snippets and guides for building with Claude, Anthropic's LLM. It assumes users have an Anthropic API key and primarily targets Python but the ideas apply broadly. The README highlights prerequisites, points newcomers to other educational materials, and encourages contributions via issues and pull requests. Links to Anthropic docs, support resources, and community channels provide additional learning paths.
----
 
 
 # Anthropic Cookbook
@@ -87,3 +79,14 @@ If you have ideas for new examples or guides, share them on the [issues page](ht
 
 - [Anthropic on AWS](https://github.com/aws-samples/anthropic-on-aws): Explore examples and solutions for using Claude on AWS infrastructure.
 - [AWS Samples](https://github.com/aws-samples/): A collection of code samples from AWS which can be adapted for use with Claude. Note that some samples may require modification to work optimally with Claude.
+---
+summary: |
+  The Anthropic Cookbook repository offers sample code snippets and guides for building with Claude, Anthropic's LLM. It assumes users have an Anthropic API key and primarily targets Python but the ideas apply broadly. The README highlights prerequisites, points newcomers to other educational materials, and encourages contributions via issues and pull requests. Links to Anthropic docs, support resources, and community channels provide additional learning paths.
+
+---
+
+---
+summary: |
+  The Anthropic Cookbook repository offers sample code snippets and guides for building with Claude, Anthropic's LLM. It assumes users have an Anthropic API key and primarily targets Python but the ideas apply broadly. The README highlights prerequisites, points newcomers to other educational materials, and encourages contributions via issues and pull requests. Links to Anthropic docs, support resources, and community channels provide additional learning paths.
+
+---

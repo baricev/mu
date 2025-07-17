@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the servers component.'
 ---
----
-long_summary: |
-  The Model Context Protocol Servers repository collects reference server implementations demonstrating how MCP can securely connect LLMs to tools and data. The README lists server examples—such as Everything, Git, Memory, and Sequential Thinking—each implemented with various official MCP SDKs. It maintains links to community servers, encourages alphabetical ordering for new entries, and includes an extensive contributing guide. This serves as a central hub for exploring and building MCP servers.
----
 
 
 # Model Context Protocol servers
@@ -1196,3 +1192,9 @@ If you find MCP servers useful, please consider starring the repository and cont
 ---
 
 Managed by Anthropic, but built together with the community. The Model Context Protocol is open source and we encourage everyone to contribute their own servers and improvements!
+
+---
+summary: |
+  The Model Context Protocol Servers repository collects reference server implementations demonstrating how MCP can securely connect LLMs to tools and data. The README lists server examples—such as Everything, Git, Memory, and Sequential Thinking—each implemented with various official MCP SDKs. It maintains links to community servers, encourages alphabetical ordering for new entries, and includes an extensive contributing guide. This serves as a central hub for exploring and building MCP servers.
+
+---

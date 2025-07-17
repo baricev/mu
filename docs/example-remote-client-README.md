@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the example-remote-client component.'
 ---
----
-long_summary: |
-  The Example Remote MCP Client demonstrates a React TypeScript application that can connect to multiple Model Context Protocol servers. It showcases a conversational interface with real-time tool calls, debugging, and message tracing. The README outlines features, prerequisites such as Node.js, and steps for installing dependencies and running the development server. It serves as a template for building custom remote MCP clients.
----
 
 
 # NOTE: this is a work in progress
@@ -81,3 +77,8 @@ The application is built with a modular architecture using React hooks and provi
 This is an active development project serving as both:
 - A public example implementation of MCP client features
 - A prototyping testbed for MCP protocol changes
+---
+summary: |
+  The Example Remote MCP Client demonstrates a React TypeScript application that can connect to multiple Model Context Protocol servers. It showcases a conversational interface with real-time tool calls, debugging, and message tracing. The README outlines features, prerequisites such as Node.js, and steps for installing dependencies and running the development server. It serves as a template for building custom remote MCP clients.
+
+---

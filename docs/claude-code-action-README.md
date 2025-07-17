@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the claude-code-action component.'
 ---
----
-long_summary: |
-  Claude Code Action is a GitHub Action that lets users interact with Claude via comments on pull requests and issues. It can answer questions, review code, and apply small changes. The README outlines features like authentication through Anthropic, Bedrock, or Vertex AI, provides a quickstart installation using the Claude terminal, and documents manual setup steps for different providers. It emphasizes that the action runs entirely on the user's infrastructure and highlights progress tracking and integration with GitHub workflows.
----
 
 
 ![Claude Code Action responding to a comment](https://github.com/user-attachments/assets/1d60c2e9-82ed-4ee5-b749-f9e021c85f4d)
@@ -907,3 +903,9 @@ We also recommend that you always use short-lived tokens when possible
 ## License
 
 This project is licensed under the MIT License—see the LICENSE file for details.
+
+---
+summary: |
+  Claude Code Action is a GitHub Action that lets users interact with Claude via comments on pull requests and issues. It can answer questions, review code, and apply small changes. The README outlines features like authentication through Anthropic, Bedrock, or Vertex AI, provides a quickstart installation using the Claude terminal, and documents manual setup steps for different providers. It emphasizes that the action runs entirely on the user's infrastructure and highlights progress tracking and integration with GitHub workflows.
+
+---

@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the inspector component.'
 ---
----
-long_summary: |
-  MCP Inspector is a developer tool that helps test and debug Model Context Protocol servers. It consists of a web-based client built with React and a Node.js proxy that bridges the web UI to MCP servers via various transports. The README explains how to run the inspector, lists requirements such as Node.js, and provides commands for quick startup using npx. It helps developers trace messages and visualize tool calls when working with MCP servers.
----
 
 
 # MCP Inspector
@@ -355,3 +351,9 @@ npx @modelcontextprotocol/inspector --cli https://my-mcp-server.example.com --me
 ## License
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+
+---
+summary: |
+  MCP Inspector is a developer tool that helps test and debug Model Context Protocol servers. It consists of a web-based client built with React and a Node.js proxy that bridges the web UI to MCP servers via various transports. The README explains how to run the inspector, lists requirements such as Node.js, and provides commands for quick startup using npx. It helps developers trace messages and visualize tool calls when working with MCP servers.
+
+---

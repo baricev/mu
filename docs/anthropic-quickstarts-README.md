@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the anthropic-quickstarts component.'
 ---
----
-long_summary: |
-  Anthropic Quickstarts contains starter projects that demonstrate how to build various applications with the Anthropic API. Each quickstart, such as a customer support agent or a financial data analyst, shows how Claude can be integrated into practical workflows. The README explains that an API key is required, describes available projects, and links directly to their folders. Contributors are invited to submit ideas or improvements through GitHub issues and pull requests.
----
 
 
 # Anthropic Quickstarts
@@ -72,3 +68,9 @@ We welcome contributions to the Anthropic Quickstarts repository! If you have id
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+summary: |
+  Anthropic Quickstarts contains starter projects that demonstrate how to build various applications with the Anthropic API. Each quickstart, such as a customer support agent or a financial data analyst, shows how Claude can be integrated into practical workflows. The README explains that an API key is required, describes available projects, and links directly to their folders. Contributors are invited to submit ideas or improvements through GitHub issues and pull requests.
+
+---

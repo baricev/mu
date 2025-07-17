@@ -8,10 +8,6 @@ related_components: []
 tech_stack: []
 summary: 'A brief description of the anthropic-sdk-python component.'
 ---
----
-long_summary: |
-  The Anthropic Python SDK offers a fully typed interface for the Anthropic REST API supporting both synchronous and asynchronous usage via httpx. The README covers installation from PyPI, basic usage examples for creating an Anthropic client, and links to API documentation. It provides extensive details about configuration, error handling, and advanced features. Contribution guidelines are included near the end, inviting pull requests and improvements from the community.
----
 
 
 # Anthropic Python API library
@@ -839,3 +835,9 @@ Python 3.8 or higher.
 ## Contributing
 
 See [the contributing documentation](./CONTRIBUTING.md).
+
+---
+summary: |
+  The Anthropic Python SDK offers a fully typed interface for the Anthropic REST API supporting both synchronous and asynchronous usage via httpx. The README covers installation from PyPI, basic usage examples for creating an Anthropic client, and links to API documentation. It provides extensive details about configuration, error handling, and advanced features. Contribution guidelines are included near the end, inviting pull requests and improvements from the community.
+
+---
