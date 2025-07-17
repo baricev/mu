@@ -1,3 +1,15 @@
+---
+id: 'anthropic-cookbook-001'
+title: 'anthropic-cookbook'
+type: 'component-documentation'
+status: 'development'
+owner: '@team-placeholder'
+related_components: []
+tech_stack: []
+summary: 'A brief description of the anthropic-cookbook component.'
+---
+
+
 # Anthropic Cookbook
 
 The Anthropic Cookbook provides code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects.

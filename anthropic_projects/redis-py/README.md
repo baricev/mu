@@ -1,3 +1,15 @@
+---
+id: 'redis-py-001'
+title: 'redis-py'
+type: 'component-documentation'
+status: 'development'
+owner: '@team-placeholder'
+related_components: []
+tech_stack: []
+summary: 'A brief description of the redis-py component.'
+---
+
+
 # redis-py
 
 The Python interface to the Redis key-value store.

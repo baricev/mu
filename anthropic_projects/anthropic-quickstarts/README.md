@@ -1,3 +1,15 @@
+---
+id: 'anthropic-quickstarts-001'
+title: 'anthropic-quickstarts'
+type: 'component-documentation'
+status: 'development'
+owner: '@team-placeholder'
+related_components: []
+tech_stack: []
+summary: 'A brief description of the anthropic-quickstarts component.'
+---
+
+
 # Anthropic Quickstarts
 
 Anthropic Quickstarts is a collection of projects designed to help developers quickly get started with building  applications using the Anthropic API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs.

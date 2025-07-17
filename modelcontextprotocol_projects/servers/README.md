@@ -1,3 +1,15 @@
+---
+id: 'servers-001'
+title: 'servers'
+type: 'component-documentation'
+status: 'development'
+owner: '@team-placeholder'
+related_components: []
+tech_stack: []
+summary: 'A brief description of the servers component.'
+---
+
+
 # Model Context Protocol servers
 
 This repository is a collection of *reference implementations* for the [Model Context Protocol](https://modelcontextprotocol.io/) (MCP), as well as references

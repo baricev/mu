@@ -1,3 +1,15 @@
+---
+id: 'inspector-001'
+title: 'inspector'
+type: 'component-documentation'
+status: 'development'
+owner: '@team-placeholder'
+related_components: []
+tech_stack: []
+summary: 'A brief description of the inspector component.'
+---
+
+
 # MCP Inspector
 
 The MCP inspector is a developer tool for testing and debugging MCP servers.

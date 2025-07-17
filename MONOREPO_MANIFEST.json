@@ -1,0 +1,128 @@
+{
+  "monorepo_name": "ai-agents-monorepo",
+  "version": "1.0.0",
+  "structure": {
+    "project_scopes": [
+      "anthropic_projects",
+      "modelcontextprotocol_projects",
+      "openai_projects"
+    ],
+    "docs_dir": "docs/",
+    "scripts_dir": "scripts/"
+  },
+  "projects": [
+    {
+      "id": "anthropic-cookbook",
+      "name": "anthropic-cookbook",
+      "path": "anthropic_projects/anthropic-cookbook",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "anthropic-quickstarts",
+      "name": "anthropic-quickstarts",
+      "path": "anthropic_projects/anthropic-quickstarts",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "anthropic-sdk-python",
+      "name": "anthropic-sdk-python",
+      "path": "anthropic_projects/anthropic-sdk-python",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "claude-code-action",
+      "name": "claude-code-action",
+      "path": "anthropic_projects/claude-code-action",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "redis-py",
+      "name": "redis-py",
+      "path": "anthropic_projects/redis-py",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "example-remote-client",
+      "name": "example-remote-client",
+      "path": "modelcontextprotocol_projects/example-remote-client",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "inspector",
+      "name": "inspector",
+      "path": "modelcontextprotocol_projects/inspector",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "python-sdk",
+      "name": "python-sdk",
+      "path": "modelcontextprotocol_projects/python-sdk",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "servers",
+      "name": "servers",
+      "path": "modelcontextprotocol_projects/servers",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "typescript-sdk",
+      "name": "typescript-sdk",
+      "path": "modelcontextprotocol_projects/typescript-sdk",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "RD-Agent-microsoft",
+      "name": "RD-Agent-microsoft",
+      "path": "openai_projects/RD-Agent-microsoft",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "codex",
+      "name": "codex",
+      "path": "openai_projects/codex",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "mle-bench",
+      "name": "mle-bench",
+      "path": "openai_projects/mle-bench",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "openai-agents-python",
+      "name": "openai-agents-python",
+      "path": "openai_projects/openai-agents-python",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "openai-cookbook",
+      "name": "openai-cookbook",
+      "path": "openai_projects/openai-cookbook",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    },
+    {
+      "id": "sample-deep-research-mcp",
+      "name": "sample-deep-research-mcp",
+      "path": "openai_projects/sample-deep-research-mcp",
+      "type": "library",
+      "description": "A component of the AI Agents monorepo."
+    }
+  ],
+  "documentation_entry_point": "docs/README.md"
+}

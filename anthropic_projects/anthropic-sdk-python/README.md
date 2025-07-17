@@ -1,3 +1,15 @@
+---
+id: 'anthropic-sdk-python-001'
+title: 'anthropic-sdk-python'
+type: 'component-documentation'
+status: 'development'
+owner: '@team-placeholder'
+related_components: []
+tech_stack: []
+summary: 'A brief description of the anthropic-sdk-python component.'
+---
+
+
 # Anthropic Python API library
 
 [![PyPI version](<https://img.shields.io/pypi/v/anthropic.svg?label=pypi%20(stable)>)](https://pypi.org/project/anthropic/)

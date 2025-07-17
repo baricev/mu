@@ -1,3 +1,15 @@
+---
+id: 'claude-code-action-001'
+title: 'claude-code-action'
+type: 'component-documentation'
+status: 'development'
+owner: '@team-placeholder'
+related_components: []
+tech_stack: []
+summary: 'A brief description of the claude-code-action component.'
+---
+
+
 ![Claude Code Action responding to a comment](https://github.com/user-attachments/assets/1d60c2e9-82ed-4ee5-b749-f9e021c85f4d)
 
 # Claude Code Action

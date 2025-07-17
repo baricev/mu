@@ -1,3 +1,15 @@
+---
+id: 'sample-deep-research-mcp-001'
+title: 'sample-deep-research-mcp'
+type: 'component-documentation'
+status: 'development'
+owner: '@team-placeholder'
+related_components: []
+tech_stack: []
+summary: 'A brief description of the sample-deep-research-mcp component.'
+---
+
+
 # Cupcake MCP for Deep Research
 
 This is a minimal example of a Deep Research style MCP server for searching and fetching cupcake orders.

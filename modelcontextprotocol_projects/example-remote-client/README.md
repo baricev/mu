@@ -1,3 +1,15 @@
+---
+id: 'example-remote-client-001'
+title: 'example-remote-client'
+type: 'component-documentation'
+status: 'development'
+owner: '@team-placeholder'
+related_components: []
+tech_stack: []
+summary: 'A brief description of the example-remote-client component.'
+---
+
+
 # NOTE: this is a work in progress
 
 # Example Remote MCP Client
