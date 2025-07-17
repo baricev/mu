@@ -1,0 +1,1035 @@
+type: directory
+name: .
+path: .
+contents:
+  - type: file
+    name: .gitignore
+    path: .gitignore
+  - type: file
+    name: FILE_TREE_MAP.md
+    path: FILE_TREE_MAP.md
+  - type: file
+    name: REPOSITORY_CODE_MAP.md
+    path: REPOSITORY_CODE_MAP.md
+  - type: file
+    name: MONOREPO_MANIFEST.json
+    path: MONOREPO_MANIFEST.json
+  - type: directory
+    name: anthropic_projects
+    path: ./anthropic_projects
+    contents:
+      - type: directory
+        name: anthropic-cookbook
+        path: ./anthropic_projects/anthropic-cookbook
+        contents:
+          - type: file
+            name: .gitignore
+            path: anthropic_projects/anthropic-cookbook/.gitignore
+          - type: file
+            name: LICENSE
+            path: anthropic_projects/anthropic-cookbook/LICENSE
+          - type: file
+            name: README.md
+            path: anthropic_projects/anthropic-cookbook/README.md
+          - type: directory
+            name: extended_thinking
+            path: anthropic_projects/anthropic-cookbook/extended_thinking
+            contents: []
+          - type: directory
+            name: finetuning
+            path: anthropic_projects/anthropic-cookbook/finetuning
+            contents: []
+          - type: directory
+            name: images
+            path: anthropic_projects/anthropic-cookbook/images
+            contents: []
+          - type: directory
+            name: misc
+            path: anthropic_projects/anthropic-cookbook/misc
+            contents: []
+          - type: directory
+            name: multimodal
+            path: anthropic_projects/anthropic-cookbook/multimodal
+            contents: []
+          - type: directory
+            name: patterns
+            path: anthropic_projects/anthropic-cookbook/patterns
+            contents: []
+          - type: directory
+            name: skills
+            path: anthropic_projects/anthropic-cookbook/skills
+            contents: []
+          - type: directory
+            name: third_party
+            path: anthropic_projects/anthropic-cookbook/third_party
+            contents: []
+          - type: directory
+            name: tool_use
+            path: anthropic_projects/anthropic-cookbook/tool_use
+            contents: []
+      - type: directory
+        name: anthropic-quickstarts
+        path: ./anthropic_projects/anthropic-quickstarts
+        contents:
+          - type: directory
+            name: .github
+            path: anthropic_projects/anthropic-quickstarts/.github
+            contents: []
+          - type: file
+            name: .pre-commit-config.yaml
+            path: anthropic_projects/anthropic-quickstarts/.pre-commit-config.yaml
+          - type: file
+            name: CLAUDE.md
+            path: anthropic_projects/anthropic-quickstarts/CLAUDE.md
+          - type: file
+            name: LICENSE
+            path: anthropic_projects/anthropic-quickstarts/LICENSE
+          - type: file
+            name: README.md
+            path: anthropic_projects/anthropic-quickstarts/README.md
+          - type: directory
+            name: agents
+            path: anthropic_projects/anthropic-quickstarts/agents
+            contents: []
+          - type: directory
+            name: computer-use-demo
+            path: anthropic_projects/anthropic-quickstarts/computer-use-demo
+            contents: []
+          - type: directory
+            name: customer-support-agent
+            path: anthropic_projects/anthropic-quickstarts/customer-support-agent
+            contents: []
+          - type: directory
+            name: financial-data-analyst
+            path: anthropic_projects/anthropic-quickstarts/financial-data-analyst
+            contents: []
+          - type: file
+            name: pyproject.toml
+            path: anthropic_projects/anthropic-quickstarts/pyproject.toml
+      - type: directory
+        name: anthropic-sdk-python
+        path: ./anthropic_projects/anthropic-sdk-python
+        contents:
+          - type: directory
+            name: .devcontainer
+            path: anthropic_projects/anthropic-sdk-python/.devcontainer
+            contents: []
+          - type: directory
+            name: .github
+            path: anthropic_projects/anthropic-sdk-python/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: anthropic_projects/anthropic-sdk-python/.gitignore
+          - type: file
+            name: .python-version
+            path: anthropic_projects/anthropic-sdk-python/.python-version
+          - type: file
+            name: .release-please-manifest.json
+            path: anthropic_projects/anthropic-sdk-python/.release-please-manifest.json
+          - type: file
+            name: .stats.yml
+            path: anthropic_projects/anthropic-sdk-python/.stats.yml
+          - type: file
+            name: Brewfile
+            path: anthropic_projects/anthropic-sdk-python/Brewfile
+          - type: file
+            name: CHANGELOG.md
+            path: anthropic_projects/anthropic-sdk-python/CHANGELOG.md
+          - type: file
+            name: CONTRIBUTING.md
+            path: anthropic_projects/anthropic-sdk-python/CONTRIBUTING.md
+          - type: file
+            name: LICENSE
+            path: anthropic_projects/anthropic-sdk-python/LICENSE
+          - type: file
+            name: README.md
+            path: anthropic_projects/anthropic-sdk-python/README.md
+          - type: file
+            name: SECURITY.md
+            path: anthropic_projects/anthropic-sdk-python/SECURITY.md
+          - type: file
+            name: api.md
+            path: anthropic_projects/anthropic-sdk-python/api.md
+          - type: directory
+            name: bin
+            path: anthropic_projects/anthropic-sdk-python/bin
+            contents: []
+          - type: directory
+            name: examples
+            path: anthropic_projects/anthropic-sdk-python/examples
+            contents: []
+          - type: file
+            name: helpers.md
+            path: anthropic_projects/anthropic-sdk-python/helpers.md
+          - type: file
+            name: mypy.ini
+            path: anthropic_projects/anthropic-sdk-python/mypy.ini
+          - type: file
+            name: pyproject.toml
+            path: anthropic_projects/anthropic-sdk-python/pyproject.toml
+          - type: file
+            name: release-please-config.json
+            path: anthropic_projects/anthropic-sdk-python/release-please-config.json
+          - type: file
+            name: requirements-dev.lock
+            path: anthropic_projects/anthropic-sdk-python/requirements-dev.lock
+          - type: directory
+            name: scripts
+            path: anthropic_projects/anthropic-sdk-python/scripts
+            contents: []
+          - type: directory
+            name: src
+            path: anthropic_projects/anthropic-sdk-python/src
+            contents: []
+          - type: directory
+            name: tests
+            path: anthropic_projects/anthropic-sdk-python/tests
+            contents: []
+          - type: file
+            name: uv.lock
+            path: anthropic_projects/anthropic-sdk-python/uv.lock
+      - type: directory
+        name: claude-code-action
+        path: ./anthropic_projects/claude-code-action
+        contents:
+          - type: directory
+            name: .claude
+            path: anthropic_projects/claude-code-action/.claude
+            contents: []
+          - type: directory
+            name: .github
+            path: anthropic_projects/claude-code-action/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: anthropic_projects/claude-code-action/.gitignore
+          - type: file
+            name: .npmrc
+            path: anthropic_projects/claude-code-action/.npmrc
+          - type: file
+            name: .prettierignore
+            path: anthropic_projects/claude-code-action/.prettierignore
+          - type: file
+            name: .prettierrc
+            path: anthropic_projects/claude-code-action/.prettierrc
+          - type: file
+            name: CLAUDE.md
+            path: anthropic_projects/claude-code-action/CLAUDE.md
+          - type: file
+            name: CODE_OF_CONDUCT.md
+            path: anthropic_projects/claude-code-action/CODE_OF_CONDUCT.md
+          - type: file
+            name: CONTRIBUTING.md
+            path: anthropic_projects/claude-code-action/CONTRIBUTING.md
+          - type: file
+            name: FAQ.md
+            path: anthropic_projects/claude-code-action/FAQ.md
+          - type: file
+            name: LICENSE
+            path: anthropic_projects/claude-code-action/LICENSE
+          - type: file
+            name: README.md
+            path: anthropic_projects/claude-code-action/README.md
+          - type: file
+            name: ROADMAP.md
+            path: anthropic_projects/claude-code-action/ROADMAP.md
+          - type: file
+            name: SECURITY.md
+            path: anthropic_projects/claude-code-action/SECURITY.md
+          - type: file
+            name: action.yml
+            path: anthropic_projects/claude-code-action/action.yml
+          - type: file
+            name: bun.lock
+            path: anthropic_projects/claude-code-action/bun.lock
+          - type: directory
+            name: examples
+            path: anthropic_projects/claude-code-action/examples
+            contents: []
+          - type: file
+            name: package.json
+            path: anthropic_projects/claude-code-action/package.json
+          - type: directory
+            name: scripts
+            path: anthropic_projects/claude-code-action/scripts
+            contents: []
+          - type: directory
+            name: src
+            path: anthropic_projects/claude-code-action/src
+            contents: []
+          - type: directory
+            name: test
+            path: anthropic_projects/claude-code-action/test
+            contents: []
+          - type: file
+            name: tsconfig.json
+            path: anthropic_projects/claude-code-action/tsconfig.json
+      - type: directory
+        name: redis-py
+        path: ./anthropic_projects/redis-py
+        contents:
+          - type: file
+            name: .coveragerc
+            path: anthropic_projects/redis-py/.coveragerc
+          - type: file
+            name: .dockerignore
+            path: anthropic_projects/redis-py/.dockerignore
+          - type: directory
+            name: .github
+            path: anthropic_projects/redis-py/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: anthropic_projects/redis-py/.gitignore
+          - type: file
+            name: .mypy.ini
+            path: anthropic_projects/redis-py/.mypy.ini
+          - type: file
+            name: .readthedocs.yml
+            path: anthropic_projects/redis-py/.readthedocs.yml
+          - type: file
+            name: CHANGES
+            path: anthropic_projects/redis-py/CHANGES
+          - type: file
+            name: CONTRIBUTING.md
+            path: anthropic_projects/redis-py/CONTRIBUTING.md
+          - type: file
+            name: LICENSE
+            path: anthropic_projects/redis-py/LICENSE
+          - type: file
+            name: README.md
+            path: anthropic_projects/redis-py/README.md
+          - type: directory
+            name: benchmarks
+            path: anthropic_projects/redis-py/benchmarks
+            contents: []
+          - type: file
+            name: codecov.yml
+            path: anthropic_projects/redis-py/codecov.yml
+          - type: file
+            name: dev_requirements.txt
+            path: anthropic_projects/redis-py/dev_requirements.txt
+          - type: file
+            name: docker-compose.yml
+            path: anthropic_projects/redis-py/docker-compose.yml
+          - type: directory
+            name: dockers
+            path: anthropic_projects/redis-py/dockers
+            contents: []
+          - type: directory
+            name: docs
+            path: anthropic_projects/redis-py/docs
+            contents: []
+          - type: directory
+            name: doctests
+            path: anthropic_projects/redis-py/doctests
+            contents: []
+          - type: file
+            name: pyproject.toml
+            path: anthropic_projects/redis-py/pyproject.toml
+          - type: directory
+            name: redis
+            path: anthropic_projects/redis-py/redis
+            contents: []
+          - type: file
+            name: tasks.py
+            path: anthropic_projects/redis-py/tasks.py
+          - type: directory
+            name: tests
+            path: anthropic_projects/redis-py/tests
+            contents: []
+          - type: directory
+            name: util
+            path: anthropic_projects/redis-py/util
+            contents: []
+          - type: file
+            name: whitelist.py
+            path: anthropic_projects/redis-py/whitelist.py
+  - type: directory
+    name: docs
+    path: ./docs
+    contents:
+      - type: file
+        name: README.md
+        path: docs/README.md
+  - type: directory
+    name: modelcontextprotocol_projects
+    path: ./modelcontextprotocol_projects
+    contents:
+      - type: directory
+        name: example-remote-client
+        path: ./modelcontextprotocol_projects/example-remote-client
+        contents:
+          - type: file
+            name: .eslintrc.cjs
+            path: modelcontextprotocol_projects/example-remote-client/.eslintrc.cjs
+          - type: directory
+            name: .github
+            path: modelcontextprotocol_projects/example-remote-client/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: modelcontextprotocol_projects/example-remote-client/.gitignore
+          - type: file
+            name: README.md
+            path: modelcontextprotocol_projects/example-remote-client/README.md
+          - type: directory
+            name: docs
+            path: modelcontextprotocol_projects/example-remote-client/docs
+            contents: []
+          - type: file
+            name: index.html
+            path: modelcontextprotocol_projects/example-remote-client/index.html
+          - type: file
+            name: package-lock.json
+            path: modelcontextprotocol_projects/example-remote-client/package-lock.json
+          - type: file
+            name: package.json
+            path: modelcontextprotocol_projects/example-remote-client/package.json
+          - type: file
+            name: postcss.config.js
+            path: modelcontextprotocol_projects/example-remote-client/postcss.config.js
+          - type: directory
+            name: src
+            path: modelcontextprotocol_projects/example-remote-client/src
+            contents: []
+          - type: file
+            name: tailwind.config.js
+            path: modelcontextprotocol_projects/example-remote-client/tailwind.config.js
+          - type: file
+            name: tsconfig.json
+            path: modelcontextprotocol_projects/example-remote-client/tsconfig.json
+          - type: file
+            name: tsconfig.node.json
+            path: modelcontextprotocol_projects/example-remote-client/tsconfig.node.json
+          - type: file
+            name: vite.config.ts
+            path: modelcontextprotocol_projects/example-remote-client/vite.config.ts
+      - type: directory
+        name: inspector
+        path: ./modelcontextprotocol_projects/inspector
+        contents:
+          - type: file
+            name: .dockerignore
+            path: modelcontextprotocol_projects/inspector/.dockerignore
+          - type: file
+            name: .git-blame-ignore-revs
+            path: modelcontextprotocol_projects/inspector/.git-blame-ignore-revs
+          - type: file
+            name: .gitattributes
+            path: modelcontextprotocol_projects/inspector/.gitattributes
+          - type: directory
+            name: .github
+            path: modelcontextprotocol_projects/inspector/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: modelcontextprotocol_projects/inspector/.gitignore
+          - type: file
+            name: .node-version
+            path: modelcontextprotocol_projects/inspector/.node-version
+          - type: file
+            name: .npmrc
+            path: modelcontextprotocol_projects/inspector/.npmrc
+          - type: file
+            name: .prettierignore
+            path: modelcontextprotocol_projects/inspector/.prettierignore
+          - type: file
+            name: .prettierrc
+            path: modelcontextprotocol_projects/inspector/.prettierrc
+          - type: file
+            name: CLAUDE.md
+            path: modelcontextprotocol_projects/inspector/CLAUDE.md
+          - type: file
+            name: CODE_OF_CONDUCT.md
+            path: modelcontextprotocol_projects/inspector/CODE_OF_CONDUCT.md
+          - type: file
+            name: CONTRIBUTING.md
+            path: modelcontextprotocol_projects/inspector/CONTRIBUTING.md
+          - type: file
+            name: Dockerfile
+            path: modelcontextprotocol_projects/inspector/Dockerfile
+          - type: file
+            name: LICENSE
+            path: modelcontextprotocol_projects/inspector/LICENSE
+          - type: file
+            name: README.md
+            path: modelcontextprotocol_projects/inspector/README.md
+          - type: file
+            name: SECURITY.md
+            path: modelcontextprotocol_projects/inspector/SECURITY.md
+          - type: directory
+            name: cli
+            path: modelcontextprotocol_projects/inspector/cli
+            contents: []
+          - type: directory
+            name: client
+            path: modelcontextprotocol_projects/inspector/client
+            contents: []
+          - type: file
+            name: mcp-inspector.png
+            path: modelcontextprotocol_projects/inspector/mcp-inspector.png
+          - type: file
+            name: package-lock.json
+            path: modelcontextprotocol_projects/inspector/package-lock.json
+          - type: file
+            name: package.json
+            path: modelcontextprotocol_projects/inspector/package.json
+          - type: file
+            name: sample-config.json
+            path: modelcontextprotocol_projects/inspector/sample-config.json
+          - type: directory
+            name: scripts
+            path: modelcontextprotocol_projects/inspector/scripts
+            contents: []
+          - type: directory
+            name: server
+            path: modelcontextprotocol_projects/inspector/server
+            contents: []
+      - type: directory
+        name: python-sdk
+        path: ./modelcontextprotocol_projects/python-sdk
+        contents:
+          - type: file
+            name: .git-blame-ignore-revs
+            path: modelcontextprotocol_projects/python-sdk/.git-blame-ignore-revs
+          - type: directory
+            name: .github
+            path: modelcontextprotocol_projects/python-sdk/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: modelcontextprotocol_projects/python-sdk/.gitignore
+          - type: file
+            name: .pre-commit-config.yaml
+            path: modelcontextprotocol_projects/python-sdk/.pre-commit-config.yaml
+          - type: file
+            name: CLAUDE.md
+            path: modelcontextprotocol_projects/python-sdk/CLAUDE.md
+          - type: file
+            name: CODE_OF_CONDUCT.md
+            path: modelcontextprotocol_projects/python-sdk/CODE_OF_CONDUCT.md
+          - type: file
+            name: CONTRIBUTING.md
+            path: modelcontextprotocol_projects/python-sdk/CONTRIBUTING.md
+          - type: file
+            name: LICENSE
+            path: modelcontextprotocol_projects/python-sdk/LICENSE
+          - type: file
+            name: README.md
+            path: modelcontextprotocol_projects/python-sdk/README.md
+          - type: file
+            name: RELEASE.md
+            path: modelcontextprotocol_projects/python-sdk/RELEASE.md
+          - type: file
+            name: SECURITY.md
+            path: modelcontextprotocol_projects/python-sdk/SECURITY.md
+          - type: directory
+            name: docs
+            path: modelcontextprotocol_projects/python-sdk/docs
+            contents: []
+          - type: directory
+            name: examples
+            path: modelcontextprotocol_projects/python-sdk/examples
+            contents: []
+          - type: file
+            name: mkdocs.yml
+            path: modelcontextprotocol_projects/python-sdk/mkdocs.yml
+          - type: file
+            name: pyproject.toml
+            path: modelcontextprotocol_projects/python-sdk/pyproject.toml
+          - type: directory
+            name: scripts
+            path: modelcontextprotocol_projects/python-sdk/scripts
+            contents: []
+          - type: directory
+            name: src
+            path: modelcontextprotocol_projects/python-sdk/src
+            contents: []
+          - type: directory
+            name: tests
+            path: modelcontextprotocol_projects/python-sdk/tests
+            contents: []
+          - type: file
+            name: uv.lock
+            path: modelcontextprotocol_projects/python-sdk/uv.lock
+      - type: directory
+        name: servers
+        path: ./modelcontextprotocol_projects/servers
+        contents:
+          - type: file
+            name: .gitattributes
+            path: modelcontextprotocol_projects/servers/.gitattributes
+          - type: directory
+            name: .github
+            path: modelcontextprotocol_projects/servers/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: modelcontextprotocol_projects/servers/.gitignore
+          - type: file
+            name: .npmrc
+            path: modelcontextprotocol_projects/servers/.npmrc
+          - type: directory
+            name: .vscode
+            path: modelcontextprotocol_projects/servers/.vscode
+            contents: []
+          - type: file
+            name: CODE_OF_CONDUCT.md
+            path: modelcontextprotocol_projects/servers/CODE_OF_CONDUCT.md
+          - type: file
+            name: CONTRIBUTING.md
+            path: modelcontextprotocol_projects/servers/CONTRIBUTING.md
+          - type: file
+            name: LICENSE
+            path: modelcontextprotocol_projects/servers/LICENSE
+          - type: file
+            name: README.md
+            path: modelcontextprotocol_projects/servers/README.md
+          - type: file
+            name: SECURITY.md
+            path: modelcontextprotocol_projects/servers/SECURITY.md
+          - type: file
+            name: package-lock.json
+            path: modelcontextprotocol_projects/servers/package-lock.json
+          - type: file
+            name: package.json
+            path: modelcontextprotocol_projects/servers/package.json
+          - type: directory
+            name: scripts
+            path: modelcontextprotocol_projects/servers/scripts
+            contents: []
+          - type: directory
+            name: src
+            path: modelcontextprotocol_projects/servers/src
+            contents: []
+          - type: file
+            name: tsconfig.json
+            path: modelcontextprotocol_projects/servers/tsconfig.json
+      - type: directory
+        name: typescript-sdk
+        path: ./modelcontextprotocol_projects/typescript-sdk
+        contents:
+          - type: file
+            name: .git-blame-ignore-revs
+            path: modelcontextprotocol_projects/typescript-sdk/.git-blame-ignore-revs
+          - type: file
+            name: .gitattributes
+            path: modelcontextprotocol_projects/typescript-sdk/.gitattributes
+          - type: directory
+            name: .github
+            path: modelcontextprotocol_projects/typescript-sdk/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: modelcontextprotocol_projects/typescript-sdk/.gitignore
+          - type: file
+            name: .npmrc
+            path: modelcontextprotocol_projects/typescript-sdk/.npmrc
+          - type: file
+            name: CLAUDE.md
+            path: modelcontextprotocol_projects/typescript-sdk/CLAUDE.md
+          - type: file
+            name: CODE_OF_CONDUCT.md
+            path: modelcontextprotocol_projects/typescript-sdk/CODE_OF_CONDUCT.md
+          - type: file
+            name: CONTRIBUTING.md
+            path: modelcontextprotocol_projects/typescript-sdk/CONTRIBUTING.md
+          - type: file
+            name: LICENSE
+            path: modelcontextprotocol_projects/typescript-sdk/LICENSE
+          - type: file
+            name: README.md
+            path: modelcontextprotocol_projects/typescript-sdk/README.md
+          - type: file
+            name: SECURITY.md
+            path: modelcontextprotocol_projects/typescript-sdk/SECURITY.md
+          - type: file
+            name: eslint.config.mjs
+            path: modelcontextprotocol_projects/typescript-sdk/eslint.config.mjs
+          - type: file
+            name: jest.config.js
+            path: modelcontextprotocol_projects/typescript-sdk/jest.config.js
+          - type: file
+            name: package-lock.json
+            path: modelcontextprotocol_projects/typescript-sdk/package-lock.json
+          - type: file
+            name: package.json
+            path: modelcontextprotocol_projects/typescript-sdk/package.json
+          - type: directory
+            name: src
+            path: modelcontextprotocol_projects/typescript-sdk/src
+            contents: []
+          - type: file
+            name: tsconfig.cjs.json
+            path: modelcontextprotocol_projects/typescript-sdk/tsconfig.cjs.json
+          - type: file
+            name: tsconfig.json
+            path: modelcontextprotocol_projects/typescript-sdk/tsconfig.json
+          - type: file
+            name: tsconfig.prod.json
+            path: modelcontextprotocol_projects/typescript-sdk/tsconfig.prod.json
+  - type: directory
+    name: openai_projects
+    path: ./openai_projects
+    contents:
+      - type: directory
+        name: RD-Agent-microsoft
+        path: ./openai_projects/RD-Agent-microsoft
+        contents:
+          - type: file
+            name: .bumpversion.cfg
+            path: openai_projects/RD-Agent-microsoft/.bumpversion.cfg
+          - type: file
+            name: .commitlintrc.js
+            path: openai_projects/RD-Agent-microsoft/.commitlintrc.js
+          - type: directory
+            name: .devcontainer
+            path: openai_projects/RD-Agent-microsoft/.devcontainer
+            contents: []
+          - type: file
+            name: .env.example
+            path: openai_projects/RD-Agent-microsoft/.env.example
+          - type: directory
+            name: .github
+            path: openai_projects/RD-Agent-microsoft/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: openai_projects/RD-Agent-microsoft/.gitignore
+          - type: file
+            name: .readthedocs.yaml
+            path: openai_projects/RD-Agent-microsoft/.readthedocs.yaml
+          - type: directory
+            name: .streamlit
+            path: openai_projects/RD-Agent-microsoft/.streamlit
+            contents: []
+          - type: file
+            name: CHANGELOG.md
+            path: openai_projects/RD-Agent-microsoft/CHANGELOG.md
+          - type: file
+            name: CODE_OF_CONDUCT.md
+            path: openai_projects/RD-Agent-microsoft/CODE_OF_CONDUCT.md
+          - type: file
+            name: CONTRIBUTING.md
+            path: openai_projects/RD-Agent-microsoft/CONTRIBUTING.md
+          - type: file
+            name: LICENSE
+            path: openai_projects/RD-Agent-microsoft/LICENSE
+          - type: file
+            name: Makefile
+            path: openai_projects/RD-Agent-microsoft/Makefile
+          - type: file
+            name: README.md
+            path: openai_projects/RD-Agent-microsoft/README.md
+          - type: file
+            name: SECURITY.md
+            path: openai_projects/RD-Agent-microsoft/SECURITY.md
+          - type: file
+            name: SUPPORT.md
+            path: openai_projects/RD-Agent-microsoft/SUPPORT.md
+          - type: file
+            name: TODO.md
+            path: openai_projects/RD-Agent-microsoft/TODO.md
+          - type: directory
+            name: constraints
+            path: openai_projects/RD-Agent-microsoft/constraints
+            contents: []
+          - type: directory
+            name: docs
+            path: openai_projects/RD-Agent-microsoft/docs
+            contents: []
+          - type: file
+            name: pyproject.toml
+            path: openai_projects/RD-Agent-microsoft/pyproject.toml
+          - type: directory
+            name: rdagent
+            path: openai_projects/RD-Agent-microsoft/rdagent
+            contents: []
+          - type: file
+            name: requirements.txt
+            path: openai_projects/RD-Agent-microsoft/requirements.txt
+          - type: directory
+            name: requirements
+            path: openai_projects/RD-Agent-microsoft/requirements
+            contents: []
+          - type: directory
+            name: test
+            path: openai_projects/RD-Agent-microsoft/test
+            contents: []
+      - type: directory
+        name: codex
+        path: ./openai_projects/codex
+        contents:
+          - type: file
+            name: .codespellignore
+            path: openai_projects/codex/.codespellignore
+          - type: file
+            name: .codespellrc
+            path: openai_projects/codex/.codespellrc
+          - type: directory
+            name: .devcontainer
+            path: openai_projects/codex/.devcontainer
+            contents: []
+          - type: directory
+            name: .github
+            path: openai_projects/codex/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: openai_projects/codex/.gitignore
+          - type: directory
+            name: .husky
+            path: openai_projects/codex/.husky
+            contents: []
+          - type: file
+            name: .npmrc
+            path: openai_projects/codex/.npmrc
+          - type: file
+            name: .prettierignore
+            path: openai_projects/codex/.prettierignore
+          - type: file
+            name: .prettierrc.toml
+            path: openai_projects/codex/.prettierrc.toml
+          - type: directory
+            name: .vscode
+            path: openai_projects/codex/.vscode
+            contents: []
+          - type: file
+            name: AGENTS.md
+            path: openai_projects/codex/AGENTS.md
+          - type: file
+            name: CHANGELOG.md
+            path: openai_projects/codex/CHANGELOG.md
+          - type: file
+            name: LICENSE
+            path: openai_projects/codex/LICENSE
+          - type: file
+            name: NOTICE
+            path: openai_projects/codex/NOTICE
+          - type: file
+            name: PNPM.md
+            path: openai_projects/codex/PNPM.md
+          - type: file
+            name: README.md
+            path: openai_projects/codex/README.md
+          - type: file
+            name: cliff.toml
+            path: openai_projects/codex/cliff.toml
+          - type: directory
+            name: codex-cli
+            path: openai_projects/codex/codex-cli
+            contents: []
+          - type: directory
+            name: codex-rs
+            path: openai_projects/codex/codex-rs
+            contents: []
+          - type: directory
+            name: docs
+            path: openai_projects/codex/docs
+            contents: []
+          - type: file
+            name: flake.lock
+            path: openai_projects/codex/flake.lock
+          - type: file
+            name: flake.nix
+            path: openai_projects/codex/flake.nix
+          - type: file
+            name: package.json
+            path: openai_projects/codex/package.json
+          - type: directory
+            name: patches
+            path: openai_projects/codex/patches
+            contents: []
+          - type: file
+            name: pnpm-lock.yaml
+            path: openai_projects/codex/pnpm-lock.yaml
+          - type: file
+            name: pnpm-workspace.yaml
+            path: openai_projects/codex/pnpm-workspace.yaml
+          - type: directory
+            name: scripts
+            path: openai_projects/codex/scripts
+            contents: []
+      - type: directory
+        name: mle-bench
+        path: ./openai_projects/mle-bench
+        contents:
+          - type: file
+            name: .dockerignore
+            path: openai_projects/mle-bench/.dockerignore
+          - type: file
+            name: .gitattributes
+            path: openai_projects/mle-bench/.gitattributes
+          - type: file
+            name: .gitignore
+            path: openai_projects/mle-bench/.gitignore
+          - type: file
+            name: .pre-commit-config.yaml
+            path: openai_projects/mle-bench/.pre-commit-config.yaml
+          - type: file
+            name: LICENSE
+            path: openai_projects/mle-bench/LICENSE
+          - type: file
+            name: README.md
+            path: openai_projects/mle-bench/README.md
+          - type: file
+            name: SECURITY.md
+            path: openai_projects/mle-bench/SECURITY.md
+          - type: directory
+            name: agents
+            path: openai_projects/mle-bench/agents
+            contents: []
+          - type: directory
+            name: environment
+            path: openai_projects/mle-bench/environment
+            contents: []
+          - type: directory
+            name: examples
+            path: openai_projects/mle-bench/examples
+            contents: []
+          - type: directory
+            name: experiments
+            path: openai_projects/mle-bench/experiments
+            contents: []
+          - type: directory
+            name: extras
+            path: openai_projects/mle-bench/extras
+            contents: []
+          - type: directory
+            name: mlebench
+            path: openai_projects/mle-bench/mlebench
+            contents: []
+          - type: file
+            name: pyproject.toml
+            path: openai_projects/mle-bench/pyproject.toml
+          - type: file
+            name: run_agent.py
+            path: openai_projects/mle-bench/run_agent.py
+          - type: directory
+            name: runs
+            path: openai_projects/mle-bench/runs
+            contents: []
+          - type: directory
+            name: tests
+            path: openai_projects/mle-bench/tests
+            contents: []
+      - type: directory
+        name: openai-agents-python
+        path: ./openai_projects/openai-agents-python
+        contents:
+          - type: directory
+            name: .github
+            path: openai_projects/openai-agents-python/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: openai_projects/openai-agents-python/.gitignore
+          - type: file
+            name: .prettierrc
+            path: openai_projects/openai-agents-python/.prettierrc
+          - type: directory
+            name: .vscode
+            path: openai_projects/openai-agents-python/.vscode
+            contents: []
+          - type: file
+            name: AGENTS.md
+            path: openai_projects/openai-agents-python/AGENTS.md
+          - type: file
+            name: CLAUDE.md
+            path: openai_projects/openai-agents-python/CLAUDE.md
+          - type: file
+            name: LICENSE
+            path: openai_projects/openai-agents-python/LICENSE
+          - type: file
+            name: Makefile
+            path: openai_projects/openai-agents-python/Makefile
+          - type: file
+            name: README.md
+            path: openai_projects/openai-agents-python/README.md
+          - type: directory
+            name: docs
+            path: openai_projects/openai-agents-python/docs
+            contents: []
+          - type: directory
+            name: examples
+            path: openai_projects/openai-agents-python/examples
+            contents: []
+          - type: file
+            name: mkdocs.yml
+            path: openai_projects/openai-agents-python/mkdocs.yml
+          - type: file
+            name: pyproject.toml
+            path: openai_projects/openai-agents-python/pyproject.toml
+          - type: directory
+            name: src
+            path: openai_projects/openai-agents-python/src
+            contents: []
+          - type: directory
+            name: tests
+            path: openai_projects/openai-agents-python/tests
+            contents: []
+          - type: file
+            name: uv.lock
+            path: openai_projects/openai-agents-python/uv.lock
+      - type: directory
+        name: openai-cookbook
+        path: ./openai_projects/openai-cookbook
+        contents:
+          - type: directory
+            name: .github
+            path: openai_projects/openai-cookbook/.github
+            contents: []
+          - type: file
+            name: .gitignore
+            path: openai_projects/openai-cookbook/.gitignore
+          - type: file
+            name: CONTRIBUTING.md
+            path: openai_projects/openai-cookbook/CONTRIBUTING.md
+          - type: file
+            name: LICENSE
+            path: openai_projects/openai-cookbook/LICENSE
+          - type: file
+            name: README.md
+            path: openai_projects/openai-cookbook/README.md
+          - type: directory
+            name: articles
+            path: openai_projects/openai-cookbook/articles
+            contents: []
+          - type: file
+            name: authors.yaml
+            path: openai_projects/openai-cookbook/authors.yaml
+          - type: directory
+            name: examples
+            path: openai_projects/openai-cookbook/examples
+            contents: []
+          - type: directory
+            name: images
+            path: openai_projects/openai-cookbook/images
+            contents: []
+          - type: file
+            name: registry.yaml
+            path: openai_projects/openai-cookbook/registry.yaml
+      - type: directory
+        name: sample-deep-research-mcp
+        path: ./openai_projects/sample-deep-research-mcp
+        contents:
+          - type: file
+            name: .gitignore
+            path: openai_projects/sample-deep-research-mcp/.gitignore
+          - type: file
+            name: LICENSE
+            path: openai_projects/sample-deep-research-mcp/LICENSE
+          - type: file
+            name: README.md
+            path: openai_projects/sample-deep-research-mcp/README.md
+          - type: file
+            name: records.json
+            path: openai_projects/sample-deep-research-mcp/records.json
+          - type: file
+            name: requirements.txt
+            path: openai_projects/sample-deep-research-mcp/requirements.txt
+          - type: file
+            name: sample_mcp.py
+            path: openai_projects/sample-deep-research-mcp/sample_mcp.py
