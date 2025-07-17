@@ -1,0 +1,16 @@
+.DS_Store
+.vscode
+.idea
+node_modules/
+*-workspace/
+server/build
+client/dist
+client/tsconfig.app.tsbuildinfo
+client/tsconfig.node.tsbuildinfo
+cli/build
+test-output
+# symlinked by `npm run link:sdk`:
+sdk
+client/playwright-report/
+client/results.json
+client/test-results/
